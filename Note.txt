@@ -1,0 +1,23 @@
+Manage missing Values
+----------------------
+There are basically three ways to manage random values
+### 1-Mean Value Imputation
+### 2 -Median Value Imputation
+### 3-Mode Value Imputation -Categorical
+Code at missing.ipynb
+
+Handling Imbalanced Dataset
+---------------------------
+Classification---> Supervised ML
+
+There are two ways to solve imbalanced dataset
+
+1. Upsampling
+2. Down Sampling
+
+We can use resample from sklearn.utils for upsampling and downsampling
+
+Code at Imabalanced.ipynb
+
+SMOTE (One of the upsampling technique)
+------
